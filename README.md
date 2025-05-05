@@ -17,9 +17,9 @@ Data Science (and related roles like Data Engineer, Data Analyst, etc.) – Done
 Location: Lisbon (+30KM) – Done
 Type: Intern or Trainee – Done
 
-3-Search for Jobs That Meet These Requirements – Not Done
+3-Search for Jobs That Meet These Requirements – Done
 
-4-Answer Questions (email, phone, CV) – Not Done
+4-Answer Questions (email, phone, CV) –  Done
 
 5-Adapt the Predefined Cover Letter for the Job – Not Done
 
