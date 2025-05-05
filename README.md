@@ -10,6 +10,7 @@ This app helps me by automatically gathering job offers from websites like Linke
 
 1-Find Sites
 LinkedIn – Done
+
 Indeed – Not Done
 
 2- Find Specific Details for My Type of Job Seeking
