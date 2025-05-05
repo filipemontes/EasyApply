@@ -9,6 +9,7 @@ So, I built this app.
 This app helps me by automatically gathering job offers from websites like LinkedIn and Indeed based on the criteria I set. It streamlines the process, saving me time and effort in the initial search.
 
 1-Find Sites
+
 LinkedIn – Done
 
 Indeed – Not Done
