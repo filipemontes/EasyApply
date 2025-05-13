@@ -7,7 +7,7 @@ It's very challenging because the market is highly competitive, with hundreds of
 So, I´m building this app.
 
 💼 What is "Easy Apply 0.1?"  
-"Easy Apply" is a feature on LinkedIn that allows job seekers to apply to job postings quickly and directly within LinkedIn, without needing to be redirected to an external company website or fill out long application forms.
+"Easy Apply" is a website that is used on LinkedIn (future versions will include more sites and filtering methods)  that allows job seekers to apply to job postings quickly and directly within LinkedIn, without needing to be redirected to an external company website or fill out long application forms.
 
 ✅ Key Characteristics
 Simplified Process
